@@ -1,0 +1,4 @@
+li	$v0, 5
+syscall
+
+#truy?n tham s? 5 vào thanh ghi v0, th?c hi?n ch?c n?ng ??c s? nguyên
