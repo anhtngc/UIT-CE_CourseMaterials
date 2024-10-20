@@ -1,3 +1,4 @@
+# Reference Notes:
 ## 1. LAB Tutorials:
 ### Công cụ thực hành:
 - 8086 emulator: http://www.mediafire.com/file/9fow2ez8z5ej8l6/8086_emulator.rar/file
