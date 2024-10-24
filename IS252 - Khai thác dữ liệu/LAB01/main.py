@@ -20,7 +20,7 @@ def r(df, x_col, y_col):
     r = (xy_mean - x_mean * y_mean) / (sigma_x * sigma_y)   
     return r
 
-df = pd.read_csv(".\LAB01\data.csv")
+df = pd.read_csv("data.csv")
 
 print(df)
 
