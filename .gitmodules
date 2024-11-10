@@ -1,3 +1,6 @@
 [submodule "CE103 - Vi xử lý, vi điều khiển/Project @ Pocket Calculator"]
 	path = CE103 - Vi xử lý, vi điều khiển/pocket-calculator
 	url = https://github.com/anhtngc/CE103-PocketCalculator
+[submodule "IS252 - Khai thác dữ liệu/datamining_project"]
+	path = IS252 - Khai thác dữ liệu/datamining_project
+	url = https://github.com/anhtngc/IS252-ClickThroughRatePrediction.git
