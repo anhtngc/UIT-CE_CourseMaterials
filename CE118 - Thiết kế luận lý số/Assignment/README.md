@@ -1,10 +1,6 @@
-# 
-## Table of Contents:
-- [Assignment 1: Sequential Circuit & FSM](#heading)
-- [Assignment 2: Design Finite State Machine (FSM)](#heading-1)
-- [Assignment 3](#heading-2)
-- [Assignment 4](#heading-3)
-## Assignment 1: Sequential Circuit & FSM
+# LIST OF ASSIGNMENTS
+:warning: These assignments are taken from the text book attached to the course. In addition, all answers in the assignments are for reference only and please check before you use them. :warning:
+## :one: Assignment 1: Sequential Circuit & FSM
 **6.1** (Clock signal) Compute the clock frequency and duty cycle for a clock signal with a width and period of:
 - (a) 5 ns and 20 ns
 - (b) 10 ns and 100 ns
@@ -27,7 +23,7 @@
 
 **6.11** (Sequenial analysis) Derive (a) excitation equations, (b) a next-state equation, (c) a stable/output table, and (d) a state diagram for the circuit shown in Figure P6.11.
 
-## Assignment 2: Design Finite State Machine (FSM)
+## :two: Assignment 2: Design Finite State Machine (FSM)
 **6.16** (Sequential synthesis) Design a counter that counts in the sequence 0, 1, 3, 6, 10, 15
 using four (a) D, (b) SR, (c) JK, (d) T flip-flops as memory elements and natural binary
 encoding.
@@ -61,7 +57,7 @@ NS and EW signals continue alternating. For these traffic-light controller:
 - c) Encode the states.
 - d) Derive a logic schematic.
 
-## Assignment 3: Storage Components
+## :three: Assignment 3: Storage Components
 **7.2** (Registers) Design a register with two load signals that enable the loading of data from
 two different sources.
 
@@ -98,9 +94,9 @@ data and (2) swap the most-significant and least-significant bytes.
 
 **7.17** (Stack) Design a push-down stack with 1K RAM that uses all (1024) words of the 1K RAM
 
-## Assignment 4: Datapath & Controller
-Students design circuits for the following two tasks according to the Datapath and Controller model:
-- Count the total number of 1 bits out of the given 8 bits
+## :four: Assignment 4: Datapath & Controller
+Design circuits for the following two tasks according to the Datapath and Controller model:
+- Count the total number of 1 bits out of the given 8 bits string
 - Circuit to multiply two 4-bit numbers.
 
 Test the design by simulating the results on Quartus.
