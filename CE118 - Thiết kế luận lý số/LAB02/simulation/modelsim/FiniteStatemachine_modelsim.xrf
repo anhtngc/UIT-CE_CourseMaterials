@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/NGOC ANH/OneDrive/Desktop/LAB02/Mealy-type.bdf
+source_file = 1, C:/Users/NGOC ANH/OneDrive/Desktop/LAB02/waveforms/Mealy-type.vwf
+source_file = 1, C:/Users/NGOC ANH/OneDrive/Desktop/LAB02/Moore-type.bdf
+source_file = 1, C:/Users/NGOC ANH/OneDrive/Desktop/LAB02/waveforms/Moore-type.vwf
+source_file = 1, C:/Users/NGOC ANH/OneDrive/Desktop/LAB02/db/FiniteStatemachine.cbx.xml
+design_name = \Moore-type 
+instance = comp, \CLK~I , CLK, \Moore-type , 1
+instance = comp, \CLK~clkctrl , CLK~clkctrl, \Moore-type , 1
+instance = comp, \I~I , I, \Moore-type , 1
+instance = comp, \Q1~I , Q1, \Moore-type , 1
+instance = comp, \Q0~I , Q0, \Moore-type , 1
+instance = comp, \Output~I , Output, \Moore-type , 1
